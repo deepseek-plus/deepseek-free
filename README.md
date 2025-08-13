@@ -1,6 +1,6 @@
 # DeepSeek | 中文官网、Deep Seek网页版、deepseek平替入口、下载及使用教程~ | 最全使用指南~【2025年8月更新】
 
-> 更新日期：2025-08-07          
+> 更新日期：2025-08-14          
 
 轻松使用 **[DeepSeek 网页版](https://chat.lanjingai.org)**，**快速稳定、不卡顿**，**畅享使用 DeepSeek R1 满血版**   
 
