@@ -1,10 +1,10 @@
 # DeepSeek | 中文官网、Deep Seek网页版、deepseek平替入口、下载及使用教程~ | 最全使用指南~【2025年9月更新】
 
-> 更新日期：2025-09-09          
+> 更新日期：2025-09-20          
 
-轻松使用 **[DeepSeek 网页版](https://chat.lanjingai.org)**，**快速稳定、不卡顿**，**畅享使用 DeepSeek R1 满血版**   
+轻松使用 **[DeepSeek 网页版](https://ai.lanjingai.org)**，**快速稳定、不卡顿**，**畅享使用 DeepSeek R1 满血版**   
 
-本指南提供最全面的 **DeepSeek 使用指南**，包含 [**DeepSeek 中文官网**](https://xsimplechat.com)、[**DeepSeek 网页版**](https://chat.lanjingai.org)、[**deepseek 下载**](https://chat.yixiaai.com)、[**DeepSeek 平替网站**](https://chat.lanjingai.org)，助您顺畅使用 DeepSeek~
+本指南提供最全面的 **DeepSeek 使用指南**，包含 [**DeepSeek 中文官网**](https://xsimplechat.com)、[**DeepSeek 网页版**](https://ai.lanjingai.org)、[**deepseek 下载**](https://chat.yixiaai.com)、[**DeepSeek 平替网站**](https://ai.lanjingai.org)，助您顺畅使用 DeepSeek~
 
 ---
 
@@ -14,13 +14,13 @@
 
 提供**智能对话、逻辑推理、AI搜索、文件处理、翻译、解题、创意、写作、编程**等等多种服务和实用功能。   
 
-最新最强的 [**DeepSeek R1 满血版**](https://chat.lanjingai.org) 不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
+最新最强的 [**DeepSeek R1 满血版**](https://ai.lanjingai.org) 不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
 
 ---
 
 ## DeepSeek 官网入口
 
-* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.lanjingai.org)
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://ai.lanjingai.org)
 * **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://xsimplechat.com) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
@@ -30,7 +30,7 @@
 ## DeepSeek R1 满血版（高速版）
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek网页版**，支持 **DeepSeek R1满血版**、V3模型~
-* **🔥蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
+* **🔥蓝鲸AI：**[ai.lanjingai.org](https://ai.lanjingai.org/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
 * **🔥极简AI：**[xsimplechat.com](https://xsimplechat.com/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude最好的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
